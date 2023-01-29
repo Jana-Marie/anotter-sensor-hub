@@ -6,6 +6,7 @@ fp-info-cache
 *.step
 *.stp
 *.kicad_prl
+bom
 
 #
 *.ctb
