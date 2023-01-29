@@ -1,0 +1,11 @@
+# kicad
+*-backups
+gerber
+fp-info-cache
+*-bak
+*.step
+*.stp
+*.kicad_prl
+
+#
+*.ctb
