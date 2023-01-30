@@ -4,9 +4,20 @@ An ESP32 based environment sensor hub with prometheus interface. It pairs perfec
 
 The PCB and components (w/o SEN055) are about ~5$, with SEN055 it comes up to ~40€/sensor node. 
 
-<p display="inline-block">
-  <img src="/sen01.jpg" height="412"/>
-  <img src="/sen02.jpg" height="412"/> 
-</p>
-
-![](/grafana.png)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="/sen01.jpg"/>
+      </td>
+      <td>
+        <img src="/sen02.jpg"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="grafana.png"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
