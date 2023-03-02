@@ -21,3 +21,8 @@ The PCB and components (w/o SEN055) are about ~5$, with SEN055 it comes up to ~4
     </tr>
   </tbody>
 </table>
+
+## Notes
+
+Cable: JST GHR 6Pin to Molex PicoBlade 6Pin
+Sensor: SEN055
