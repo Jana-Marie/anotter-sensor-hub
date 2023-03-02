@@ -1,6 +1,6 @@
 # anotter-sensor-hub
 
-An ESP32 based environment sensor hub with prometheus interface. It pairs perfectly with Sensirion SEN05x (depictured SEN055) sensors, which provide PM1, PM2.5, PM4, PM10, Temperature, Humidity, VOC and NOC index. Furthermore other I2C, SPI or PWM sensors can be added to the designated connectors. All ESP32 pins are broken out to offer bodging all sensors imaginable to the host board.
+This is an ESP32-based environmental sensor hub that comes with a Prometheus interface. It is designed to work perfectly with Sensirion SEN05x sensors, such as the depictured SEN055. These sensors provide PM1, PM2.5, PM4, PM10, temperature, humidity, VOC, and NOC indices. In addition, other I2C, SPI, or PWM sensors can be added to the designated connectors. All ESP32 pins are broken out, allowing you to connect any sensor imaginable to the host board.
 
 The PCB and components (w/o SEN055) are about ~5$, with SEN055 it comes up to ~40€/sensor node. 
 
