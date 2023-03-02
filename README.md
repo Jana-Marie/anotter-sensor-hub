@@ -25,4 +25,5 @@ The PCB and components (w/o SEN055) are about ~5$, with SEN055 it comes up to ~4
 ## Notes
 
  - Cable: [JST GHR 6Pin to Molex PicoBlade 6Pin](https://www.ebay.de/itm/183753208063)
- - Sensor: SEN055
+ - Sensor: [SEN055](https://www.mouser.de/ProductDetail/Sensirion/SEN55-SDN-T)
+ - 3D-Print: [4x foot](https://github.com/Jana-Marie/anotter-sensor-hub/blob/main/mechanical/anotter-sensor-hub-foot.stl)
